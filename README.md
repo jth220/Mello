@@ -1,4 +1,4 @@
-Mello
+
 Mello is a well-being and journaling web application created as part of my final year project. It combines a focus timer with journaling features, enabling users to log focus sessions, reflect on their progress, and link session notes to new or existing journal entries. Inspired by the Forest App, Mello features a serene, mindfulness-focused interface.
 
 Features
